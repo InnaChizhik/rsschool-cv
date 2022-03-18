@@ -1,4 +1,4 @@
-# **Inna Chizhik**
+# Inna Chizhik
 # Contacts
 * Location: Mins, Belarus
 * Phone: +375 29 309-47-08
