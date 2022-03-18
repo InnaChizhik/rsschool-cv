@@ -1,4 +1,4 @@
-# Inna Chizhik
+# **Inna Chizhik**
 # Contacts
 * Location: Mins, Belarus
 * Phone: +375 29 309-47-08
@@ -20,6 +20,6 @@ function showMessage() {
 }
 ```
 # Education 
-* Belarusian State Pedaoogical University named after Maxim Tank
+* Belarusian State Pedaoogical University named after Maxim Tank.
 # Languages
 * English - A2 (in process…)
