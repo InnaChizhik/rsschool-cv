@@ -1,0 +1,64 @@
+/*.......ОБНУЛЕНИЕ СТИЛЕЙ......*/
+*{padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;-moz-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+body {
+    height: 100%;
+  padding-top: 15px; 
+   
+}
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    
+    
+    }
+    .container {
+        max-width: 1165px ;
+        margin: 0px auto;
+    }
+    .title {
+        font-size: 40px;
+        margin-top: 20px;
+        margin-left: 40px;
+    }
+    .subtitle {
+        margin-top: 45px;
+        margin-left: 40px;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .cont {
+        margin-left: 40px;
+        font-size: 40px;
+        padding-bottom: 5px;
+    }
+    .contul {
+        margin-left: 45px;
+        font-size: 30px;
+    }
+    .title_ab {
+        margin-left: 40px;
+        font-size: 40px;
+        padding-bottom: 5px;
+    }
+    .supab {
+        font-size: 30px;
+        margin-left: 40px;
+    }
+    .skills {
+        margin-left: 40px;
+        font-size: 40px;
+    }
